@@ -1,0 +1,24 @@
+# Large game binaries and extracted APKs
+*.apk
+*.xapk
+xapk/
+il2cppdumper/
+extracted_configs/
+
+# Save data & device tokens
+*.dat
+user.dat
+tokenData.dat
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Intermediate screenshots and logs
+*.png
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
